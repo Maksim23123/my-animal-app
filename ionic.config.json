@@ -1,0 +1,7 @@
+{
+  "name": "my-animal-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
